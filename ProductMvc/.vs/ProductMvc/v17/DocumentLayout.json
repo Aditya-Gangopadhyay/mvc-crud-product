@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assert\\Proj\\MVC\\ProductManagement\\ProductMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B61076CC-09F9-43BC-A9AD-ECA36C7111AB}|ProductMvc\\ProductMvc.csproj|d:\\assert\\proj\\mvc\\productmanagement\\productmvc\\productmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B61076CC-09F9-43BC-A9AD-ECA36C7111AB}|ProductMvc\\ProductMvc.csproj|solutionrelative:productmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61076CC-09F9-43BC-A9AD-ECA36C7111AB}|ProductMvc\\ProductMvc.csproj|d:\\assert\\proj\\mvc\\productmanagement\\productmvc\\productmvc\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B61076CC-09F9-43BC-A9AD-ECA36C7111AB}|ProductMvc\\ProductMvc.csproj|solutionrelative:productmvc\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61076CC-09F9-43BC-A9AD-ECA36C7111AB}|ProductMvc\\ProductMvc.csproj|d:\\assert\\proj\\mvc\\productmanagement\\productmvc\\productmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61076CC-09F9-43BC-A9AD-ECA36C7111AB}|ProductMvc\\ProductMvc.csproj|solutionrelative:productmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 194,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.js",
+              "DocumentMoniker": "D:\\Assert\\Proj\\MVC\\ProductManagement\\ProductMvc\\ProductMvc\\wwwroot\\js\\product.js",
+              "RelativeDocumentMoniker": "ProductMvc\\wwwroot\\js\\product.js",
+              "ToolTip": "D:\\Assert\\Proj\\MVC\\ProductManagement\\ProductMvc\\ProductMvc\\wwwroot\\js\\product.js",
+              "RelativeToolTip": "ProductMvc\\wwwroot\\js\\product.js",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAnwKQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-11T14:22:41.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Assert\\Proj\\MVC\\ProductManagement\\ProductMvc\\ProductMvc\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductMvc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Assert\\Proj\\MVC\\ProductManagement\\ProductMvc\\ProductMvc\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductMvc\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEUAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T13:51:32.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Assert\\Proj\\MVC\\ProductManagement\\ProductMvc\\ProductMvc\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductMvc\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Assert\\Proj\\MVC\\ProductManagement\\ProductMvc\\ProductMvc\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductMvc\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:48:34.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
